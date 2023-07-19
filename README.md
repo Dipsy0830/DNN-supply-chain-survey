@@ -1,5 +1,5 @@
 <div align='center'>
-  <img scr='https://github.com/Dipsy0830/DNN-supply-chain-survey/blob/main/%E4%BE%9B%E5%BA%94%E9%93%BE%E7%A4%BA%E6%84%8F.png'>
+  <img scr='https://github.com/Dipsy0830/DNN-supply-chain-survey/blob/main/vis.png'>
 </div>
 
 # 深度学习模型供应链的安全性研究综述
