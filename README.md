@@ -7,4 +7,4 @@
 # 模型设计阶段的攻击
 ## 下游任务无关的攻击
 
-Weight Poisoning Attacks on Pretrained Models [\[pdf\]](https://aclanthology.org/2020.acl-main.249/)  [\[code\]](https://github.com/neulab/RIPPLe)) 
+Weight Poisoning Attacks on Pretrained Models [\[pdf\]](https://aclanthology.org/2020.acl-main.249/)  [\[code\]](https://github.com/neulab/RIPPLe)
