@@ -1,6 +1,5 @@
-<div align='center'>
-  <img scr='https://github.com/Dipsy0830/DNN-supply-chain-survey/blob/main/vis.png'>
-</div>
+![img]('https://github.com/Dipsy0830/DNN-supply-chain-survey/blob/main/imgs/vis.png')
+
 
 # 深度学习模型供应链的安全性研究综述
 这个 Github 存储库总结了深度学习模型供应链相关的资源。 有关更多详细信息和分类标准，请参阅我们的综述论文。
