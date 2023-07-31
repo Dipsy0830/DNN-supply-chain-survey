@@ -11,90 +11,90 @@
 ## 模型设计阶段的攻击
 ### 下游任务相关的攻击
 
-Weight Poisoning Attacks on Pretrained Models [\[pdf\]](https://aclanthology.org/2020.acl-main.249/)  [\[code\]](https://github.com/neulab/RIPPLe)
+1. Weight Poisoning Attacks on Pretrained Models [\[pdf\]](https://aclanthology.org/2020.acl-main.249/)  [\[code\]](https://github.com/neulab/RIPPLe)
 
-Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning  [\[pdf\]](https://aclanthology.org/2021.emnlp-main.241/)
+2. Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning  [\[pdf\]](https://aclanthology.org/2021.emnlp-main.241/)
 
-Trojaning language models for fun and profit [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9581257/)  [\[code\]](https://github.com/alps-lab/trojan-lm)
+3. Trojaning language models for fun and profit [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9581257/)  [\[code\]](https://github.com/alps-lab/trojan-lm)
 
-Badprompt: Backdoor attacks on continuous prompts [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f0722b58f02d7793acf7d328928f933a-Abstract-Conference.html)   [\[code\]](https://github.com/papersPapers/BadPrompt)
+4. Badprompt: Backdoor attacks on continuous prompts [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f0722b58f02d7793acf7d328928f933a-Abstract-Conference.html)   [\[code\]](https://github.com/papersPapers/BadPrompt)
 
-Badencoder: Backdoor attacks to pre-trained encoders in self-supervised learning  [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9833644/)   [\[code\]](https://github.com/jinyuan-jia/BadEncoder)
+5. Badencoder: Backdoor attacks to pre-trained encoders in self-supervised learning  [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9833644/)   [\[code\]](https://github.com/jinyuan-jia/BadEncoder)
 
-PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning [\[pdf\]](https://www.usenix.org/conference/usenixsecurity22/presentation/liu-hongbin) 
+6. PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning [\[pdf\]](https://www.usenix.org/conference/usenixsecurity22/presentation/liu-hongbin) 
 
-CorruptEncoder: Data Poisoning based Backdoor Attacks to Contrastive Learning [\[pdf\]](https://arxiv.org/abs/2211.08229) 
+7. CorruptEncoder: Data Poisoning based Backdoor Attacks to Contrastive Learning [\[pdf\]](https://arxiv.org/abs/2211.08229) 
 
 ### 下游任务无关的攻击
 
-Model-reuse attacks on deep learning systems [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3243734.3243757)
+1. Model-reuse attacks on deep learning systems [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3243734.3243757)
 
-Badpre: Task-agnostic backdoor attacks to pre-trained nlp foundation models [\[pdf\]](https://arxiv.org/abs/2110.02467)   [\[code\]](https://github.com/kangjie-chen/BadPre)
+2. Badpre: Task-agnostic backdoor attacks to pre-trained nlp foundation models [\[pdf\]](https://arxiv.org/abs/2110.02467)   [\[code\]](https://github.com/kangjie-chen/BadPre)
 
-Red alarm for pre-trained models: Universal vulnerability to neuron-level backdoor attacks  [\[pdf\]](https://link.springer.com/article/10.1007/s11633-022-1377-5)   [\[code\]](https://github.com/thunlp/NeuBA)
+3. Red alarm for pre-trained models: Universal vulnerability to neuron-level backdoor attacks  [\[pdf\]](https://link.springer.com/article/10.1007/s11633-022-1377-5)   [\[code\]](https://github.com/thunlp/NeuBA)
 
-Backdoor Pre-trained Models Can Transfer to All   [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3460120.3485370)
+4. Backdoor Pre-trained Models Can Transfer to All   [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3460120.3485370)
 
-A Data-free Backdoor Injection Approach in Neural Networks  [\[pdf\]](https://www.usenix.org/system/files/sec23fall-prepub-573-lv.pdf)   [\[code\]](https://github.com/lvpeizhuo/Data-free_Backdoor)
+5. A Data-free Backdoor Injection Approach in Neural Networks  [\[pdf\]](https://www.usenix.org/system/files/sec23fall-prepub-573-lv.pdf)   [\[code\]](https://github.com/lvpeizhuo/Data-free_Backdoor)
 
-NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models   [\[pdf\]](https://arxiv.org/abs/2305.17826)   [\[code\]](https://github.com/RU-System-Software-and-Security/Notable)
+6. NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models   [\[pdf\]](https://arxiv.org/abs/2305.17826)   [\[code\]](https://github.com/RU-System-Software-and-Security/Notable)
 
-UOR: Universal Backdoor Attacks on Pre-trained Language Models  [\[pdf\]](https://arxiv.org/abs/2305.09574)
+7. UOR: Universal Backdoor Attacks on Pre-trained Language Models  [\[pdf\]](https://arxiv.org/abs/2305.09574)
 
-Training-free Lexical Backdoor Attacks on Language Models   [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3543507.3583348)   [\[code\]](https://github.com/Jinxhy/TFLexAttack)
+8. Training-free Lexical Backdoor Attacks on Language Models   [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3543507.3583348)   [\[code\]](https://github.com/Jinxhy/TFLexAttack)
 
-Multi-target Backdoor Attacks for Code Pre-trained Models  [\[pdf\]](https://arxiv.org/abs/2306.08350)
+9. Multi-target Backdoor Attacks for Code Pre-trained Models  [\[pdf\]](https://arxiv.org/abs/2306.08350)
 
 
 ## 二次开发阶段的攻击
 ### 针对迁移的攻击
 
-With great training comes great vulnerability: Practical attacks against transfer learning [\[pdf\]](https://www.usenix.org/conference/usenixsecurity18/presentation/wang-bolun)
+1. With great training comes great vulnerability: Practical attacks against transfer learning [\[pdf\]](https://www.usenix.org/conference/usenixsecurity18/presentation/wang-bolun)
 
-Latent backdoor attacks on deep neural networks  [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3319535.3354209)   [\[code\]](https://github.com/Huiying-Li/Latent-Backdoor)
+2. Latent backdoor attacks on deep neural networks  [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3319535.3354209)   [\[code\]](https://github.com/Huiying-Li/Latent-Backdoor)
 
-Backdoor attacks against transfer learning with pre-trained deep learning models [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9112322/)
+3. Backdoor attacks against transfer learning with pre-trained deep learning models [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9112322/)
 
-Incremental Learning, Incremental Backdoor Threats [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9872528/)
+4. Incremental Learning, Incremental Backdoor Threats [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9872528/)
 
-Pre-trained Adversarial Perturbations [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/084727e8abf90a8365b940036329cb6f-Abstract-Conference.html)
+5. Pre-trained Adversarial Perturbations [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/084727e8abf90a8365b940036329cb6f-Abstract-Conference.html)
 
-Ppt: Backdoor attacks on pre-trained models via poisoned prompt tuning [\[pdf\]](https://www.ijcai.org/proceedings/2022/0096.pdf)
+6. Ppt: Backdoor attacks on pre-trained models via poisoned prompt tuning [\[pdf\]](https://www.ijcai.org/proceedings/2022/0096.pdf)
 
-Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models [\[pdf\]](https://arxiv.org/abs/2305.14710)
+7. Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models [\[pdf\]](https://arxiv.org/abs/2305.14710)
 
-Teacher model fingerprinting attacks against transfer learning [\[pdf\]](https://www.usenix.org/conference/usenixsecurity22/presentation/chen-yufei)
+8. Teacher model fingerprinting attacks against transfer learning [\[pdf\]](https://www.usenix.org/conference/usenixsecurity22/presentation/chen-yufei)
 
-Manipulating Transfer Learning for Property Inference  [\[pdf\]](http://openaccess.thecvf.com/content/CVPR2023/html/Tian_Manipulating_Transfer_Learning_for_Property_Inference_CVPR_2023_paper.html)   [\[code\]](https://github.com/yulongt23/Transfer-Inference)
+9. Manipulating Transfer Learning for Property Inference  [\[pdf\]](http://openaccess.thecvf.com/content/CVPR2023/html/Tian_Manipulating_Transfer_Learning_for_Property_Inference_CVPR_2023_paper.html)   [\[code\]](https://github.com/yulongt23/Transfer-Inference)
 
-Information leakage in embedding models [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3372297.3417270)
+10. Information leakage in embedding models [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3372297.3417270)
  
-Extracting training data from large language models [\[pdf\]](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)
+11. Extracting training data from large language models [\[pdf\]](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)
 
-EncoderMI: Membership inference against pre-trained encoders in contrastive learning [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3460120.3484749)
+12. EncoderMI: Membership inference against pre-trained encoders in contrastive learning [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3460120.3484749)
 
-StolenEncoder: stealing pre-trained encoders in self-supervised learning [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3548606.3560586)
+13. StolenEncoder: stealing pre-trained encoders in self-supervised learning [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3548606.3560586)
 
-Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders [\[pdf\]](https://openaccess.thecvf.com/content/CVPR2023/html/Sha_Cant_Steal_Cont-Steal_Contrastive_Stealing_Attacks_Against_Image_Encoders_CVPR_2023_paper.html)
+14. Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders [\[pdf\]](https://openaccess.thecvf.com/content/CVPR2023/html/Sha_Cant_Steal_Cont-Steal_Contrastive_Stealing_Attacks_Against_Image_Encoders_CVPR_2023_paper.html)
 
 
 ### 针对压缩的攻击
-Qu-anti-zation: Exploiting quantization artifacts for achieving adversarial outcomes  [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/4d8bd3f7351f4fee76ba17594f070ddd-Abstract.html)  [\[code\]](https://github.com/Secure-AI-Systems-Group/Qu-ANTI-zation)
+1. Qu-anti-zation: Exploiting quantization artifacts for achieving adversarial outcomes  [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/4d8bd3f7351f4fee76ba17594f070ddd-Abstract.html)  [\[code\]](https://github.com/Secure-AI-Systems-Group/Qu-ANTI-zation)
 
-Quantization backdoors to deep learning commercial frameworks  [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/10113762/)   [\[code\]](https://github.com/quantization-backdoor)
+2. Quantization backdoors to deep learning commercial frameworks  [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/10113762/)   [\[code\]](https://github.com/quantization-backdoor)
 
-Stealthy backdoors as compression artifacts  [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9737144/)   [\[code\]](https://github.com/yulongtzzz/Stealthy-Backdoors-as-Compression-Artifacts)
+3. Stealthy backdoors as compression artifacts  [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9737144/)   [\[code\]](https://github.com/yulongtzzz/Stealthy-Backdoors-as-Compression-Artifacts)
 
-RIBAC: Towards R obust and I mperceptible B ackdoor A ttack against C ompact DNN  [\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_41)   [\[code\]](https://github.com/huyvnphan/ECCV2022-RIBAC)
+4. RIBAC: Towards R obust and I mperceptible B ackdoor A ttack against C ompact DNN  [\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_41)   [\[code\]](https://github.com/huyvnphan/ECCV2022-RIBAC)
 
-Anti-distillation backdoor attacks: Backdoors can really survive in knowledge distillation  [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3474085.3475254)
+5. Anti-distillation backdoor attacks: Backdoors can really survive in knowledge distillation  [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3474085.3475254)
 
 
 ## 部署阶段的攻击
-Towards practical deployment-stage backdoor attack on deep neural networks  [\[pdf\]](http://openaccess.thecvf.com/content/CVPR2022/html/Qi_Towards_Practical_Deployment-Stage_Backdoor_Attack_on_Deep_Neural_Networks_CVPR_2022_paper.html)  [\[code\]](https://github.com/Unispac/Subnet-Replacement-Attack)
+1. Towards practical deployment-stage backdoor attack on deep neural networks  [\[pdf\]](http://openaccess.thecvf.com/content/CVPR2022/html/Qi_Towards_Practical_Deployment-Stage_Backdoor_Attack_on_Deep_Neural_Networks_CVPR_2022_paper.html)  [\[code\]](https://github.com/Unispac/Subnet-Replacement-Attack)
 
 ## 使用阶段的攻击
-Analyzing information leakage of updates to natural language models  [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3372297.3417880) 
+1. Analyzing information leakage of updates to natural language models  [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3372297.3417880) 
 
 Dataset reconstruction attack against language models [\[pdf\]](https://ceur-ws.org/Vol-2942/paper1.pdf)
 
