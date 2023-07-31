@@ -111,15 +111,43 @@ On the feasibility of specialized ability stealing for large language 
 ### 设计阶段的防护
 Detecting Backdoors in Pre-trained Encoders [\[pdf\]](https://openaccess.thecvf.com/content/CVPR2023/html/Feng_Detecting_Backdoors_in_Pre-Trained_Encoders_CVPR_2023_paper.html)    [\[code\]](https://github.com/GiantSeaweed/DECREE)
 
+Moderate-fitting as a Natural Backdoor Defender for Pre-trained Language Models [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0799492e7be38b66d10ead5e8809616d-Abstract-Conference.html)    
+
+Purifier: Plug-and-play Backdoor Mitigation for Pre-trained Models Via Anomaly Activation Suppression [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3503161.3548065)    [\[code\]](https://github.com/RUIYUN-ML/Purifier)
+
+Poison forensics: Traceback of data poisoning attacks in neural networks [\[pdf\]](https://www.usenix.org/conference/usenixsecurity22/presentation/shan) 
+
+BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense [\[pdf\]](https://www.ndss-symposium.org/wp-content/uploads/2023-944-paper.pdf)    [\[code\]](https://github.com/Megum1/BEAGLE)
+
 ### 二次开发阶段的防护
 How should pre-trained language models be fine-tuned towards adversarial robustness? [\[pdf\]](https://proceedings.neurips.cc/paper/2021/hash/22b1f2e0983160db6f7bb9f62f4dbb39-Abstract.html)     [\[code\]](https://github.com/dongxinshuai/RIFT-NeurIPS2021)
+
+ROSE: Robust Selective Fine-tuning for Pre-trained Language Models  [\[pdf\]](https://aclanthology.org/2022.emnlp-main.186/)    [\[code\]](https://github.com/jiangllan/ROSE)
+
+Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models  [\[pdf\]](https://aclanthology.org/2022.findings-emnlp.26/)
+
+Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias  [\[pdf\]](https://arxiv.org/abs/2305.04547)
+
+ReMoS: reducing defect inheritance in transfer learning via relevant model slicing  [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3510003.3510191)
+
+Analysis of Failures and Risks in Deep Learning Model Converters: A Case Study in the ONNX Ecosystem  [\[pdf\]](https://arxiv.org/abs/2303.17708)
+
+Safety and Performance, Why not Both? Bi-Objective Optimized Model Compression toward AI Software Deployment  [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3551349.3556906)    [\[code\]](https://github.com/JiePKU/MIA-SafeCompress)
+ 
+Finding Deviated Behaviors of the Compressed DNN Models for Image Classifications  [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3583564)    [\[code\]](https://github.com/yqtianust/DFlare)
 
 
 ### 部署阶段的防护
 Metamorphic testing of deep learning compilers [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3508035)
 
+Nnsmith: Generating diverse and valid test cases for deep learning compilers [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3575693.3575707)
+
+Fuzzing Deep Learning Compilers with HirGen [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3597926.3598053)
+
 ### 使用阶段的防护
 TextFusion: Privacy-Preserving Pre-trained Model Inference via Token Fusion [\[pdf\]](https://aclanthology.org/2022.emnlp-main.572/)
+
+TextObfuscator: Making Pre-trained Language Model a Privacy Protector via Obfuscating Word Representations  [\[pdf\]](https://aclanthology.org/2023.findings-acl.337/)
 
 
 
